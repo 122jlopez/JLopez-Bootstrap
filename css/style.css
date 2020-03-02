@@ -1,3 +1,8 @@
-h1{
-  font-family: 'Akronim', ;
+.jonakicks{
+  font-family: 'Akronim', sans-serif ;
+  padding:10px;
+  font-size: 60px;
+}
+.space{
+  padding:30px;
 }
